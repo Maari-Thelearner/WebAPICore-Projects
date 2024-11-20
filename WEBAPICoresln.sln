@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middlewares", "Middlewares\Middlewares.csproj", "{BA0C2273-1314-42D6-965E-753A684C01CB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartupWEBAPIEra", "StartupWEBAPIEra\StartupWEBAPIEra.csproj", "{F1B0313E-7B52-4264-98BA-441A21C60A39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BA0C2273-1314-42D6-965E-753A684C01CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA0C2273-1314-42D6-965E-753A684C01CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA0C2273-1314-42D6-965E-753A684C01CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B0313E-7B52-4264-98BA-441A21C60A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B0313E-7B52-4264-98BA-441A21C60A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B0313E-7B52-4264-98BA-441A21C60A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B0313E-7B52-4264-98BA-441A21C60A39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
